@@ -7,7 +7,7 @@
 
 
 - ## Habilidades Técnicas
-Tenho experiência sólida em desenvolvimento web front-end, com conhecimentos em **HTML**, **CSS**, **JavaScript**, **React** e **Tailwind CSS**. Também estou me familiarizando com **Python** e **Git**.
+Tenho experiência sólida em desenvolvimento web front-end, com conhecimentos em **HTML**, **CSS**, **JavaScript**, **React** e **Tailwind CSS**. Também estou me familiarizando com **Python**, **Vue.js** e **Git**.
 
 
 ## Experiência
